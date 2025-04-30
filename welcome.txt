@@ -1,0 +1,20 @@
+Welcome ! We hope you have motivation for studying today !
+Core Features
+
+1. Notes Module
+-Create, edit, delete notes; [Add note, See notes, Remove note]
+-Search notes by title or tag
+-Save to and load from .json
+-Export to txt
+2. To-Do List / Tasks Module
+Add tasks with:
+    -Description
+    -Priority (Low, Medium, High)
+    -Deadline (optional)
+    -Mark tasks as done
+    -Filter by priority or incomplete
+3. Study pal
+-CLI countdown timer (Pomodoro-friendly)
+-Timer logs to encourage habits ("You studied for 25 minutes!")
+4. Save/Load System
+Save all notes/tasks/history to a JSON
